@@ -1,0 +1,567 @@
+.footer2-comp .frame-29 {
+    align-items: flex-start;
+    align-self: stretch;
+    background-color: var(--primaryprimary-dark);
+    display: flex;
+    gap: 10px;
+    height: 60px;
+    padding: 10px 20px 20px;
+    position: relative;
+    width: 100%;
+}
+
+.footer2-comp .frame-30 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: -10px;
+    position: relative;
+}
+
+.footer2-comp .button-big-icon-4 {
+    align-items: center;
+    background-color: var(--primaryprimary-dark);
+    border: 1px solid;
+    border-color: var(--full-white);
+    border-radius: 4px;
+    display: flex;
+    gap: 15px;
+    height: 40px;
+    justify-content: center;
+    overflow: hidden;
+    padding: 16px 24px;
+    position: relative;
+    width: 200px;
+}
+
+.footer2-comp .text-wrapper-72 {
+    color: var(--full-white);
+    font-family: "Public Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: -8px;
+    margin-left: -2px;
+    margin-top: -10px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.footer2-comp .icon-10 {
+    height: 26px;
+    margin-bottom: -9px;
+    margin-right: -2px;
+    margin-top: -9px;
+    position: relative;
+    width: 26px;
+}
+
+.footer2-comp .frame-31 {
+    align-items: center;
+    display: flex;
+    flex: 1;
+    flex-grow: 1;
+    gap: 20px;
+    justify-content: flex-end;
+    margin-bottom: -10px;
+    position: relative;
+}
+
+.footer2-comp .button-big-icon-5 {
+    all: unset;
+    align-items: center;
+    background-color: var(--primaryprimary-dark);
+    border: 1px solid;
+    border-color: var(--full-white);
+    border-radius: 4px;
+    box-sizing: border-box;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 15px;
+    height: 40px;
+    justify-content: center;
+    overflow: hidden;
+    padding: 16px 24px;
+    position: relative;
+}
+
+.footer2-comp  {
+    align-items: flex-start;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    position: relative;
+    width: 100%;
+}
+
+.footer2-comp  .return-to-top {
+    align-items: flex-start;
+    align-self: stretch;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    height: 64px;
+    position: relative;
+    width: 100%;
+}
+
+.footer2-comp  .group-wrapper {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    height: 64px;
+    justify-content: flex-end;
+    position: relative;
+    width: 100%;
+}
+
+.footer2-comp  .group-2 {
+    align-self: stretch;
+    margin-right: -2px;
+    position: relative;
+    width: 163px;
+}
+
+.footer2-comp  .overlap-group-3 {
+    background-image: url(../../../static/img/rectangle-827.svg);
+    background-size: 100% 100%;
+    height: 64px;
+    position: relative;
+    width: 161px;
+}
+
+.footer2-comp  .text-wrapper-35 {
+    color: var(--full-white);
+    font-family: "Public Sans", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 31px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    text-align: center;
+    text-decoration: underline;
+    top: 21px;
+    white-space: nowrap;
+    width: 98px;
+}
+
+.footer2-comp  .primary-links {
+    align-items: flex-start;
+    align-self: stretch;
+    background-color: #f0f0f0;
+    border-color: var(--basebase-light);
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: flex;
+    height: 51px;
+    padding: 0px 32px 0px 60px;
+    position: relative;
+    width: 100%;
+}
+
+.footer2-comp  .footer-primary-link {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    padding: 16px;
+    position: relative;
+}
+
+.footer2-comp  .text-wrapper-36 {
+    color: #1b1b1b;
+    font-family: "Public Sans", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.footer2-comp  .ACL {
+    align-items: center;
+    align-self: stretch;
+    background-color: var(--grayscalegray-10);
+    display: flex;
+    height: 154px;
+    justify-content: space-between;
+    padding: 20px 60px;
+    position: relative;
+    width: 100%;
+}
+
+.footer2-comp  .logo-block {
+    align-items: center;
+    display: flex;
+    gap: 20px;
+    position: relative;
+    width: 555px;
+}
+
+.footer2-comp  .ACL-logo-3 {
+    height: 38px;
+    object-fit: cover;
+    position: relative;
+    width: 94px;
+}
+
+.footer2-comp  .AGID-title {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: center;
+    position: relative;
+    width: 392px;
+}
+
+.footer2-comp  .text-wrapper-37 {
+    align-self: stretch;
+    color: #1b1b1b;
+    font-family: "Public Sans", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+}
+
+.footer2-comp  .text-wrapper-38 {
+    align-self: stretch;
+    color: #1b1b1b;
+    font-family: "Public Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+}
+
+.footer2-comp  .contact {
+    align-items: flex-end;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 10px;
+    position: relative;
+}
+
+.footer2-comp  .socials {
+    flex: 0 0 auto;
+    position: relative;
+}
+
+.footer2-comp  .agency-contact {
+    align-items: flex-end;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: center;
+    position: relative;
+}
+
+.footer2-comp  .text-wrapper-39 {
+    color: #1b1b1b;
+    font-family: "Public Sans", Helvetica;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.footer2-comp  .frame-wrapper {
+    height: 24px;
+    position: relative;
+    width: 240px;
+}
+
+.footer2-comp  .frame-11 {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 30px;
+    position: relative;
+}
+
+.footer2-comp  .text-wrapper-40 {
+    color: #1b1b1b;
+    font-family: "Public Sans", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.footer2-comp  .site-map {
+    align-items: flex-start;
+    align-self: stretch;
+    background-color: var(--primaryprimary-dark);
+    display: flex;
+    flex: 0 0 auto;
+    gap: 5px;
+    padding: 100px 5%;
+    position: relative;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.footer2-comp  .column-wrapper {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 45px;
+    position: relative;
+}
+
+.footer2-comp  .column-3 {
+    align-items: flex-start;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 32px;
+    position: relative;
+}
+
+.footer2-comp  .discover {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 20px;
+    position: relative;
+}
+
+.footer2-comp  .text-wrapper-41 {
+    color: var(--full-white);
+    font-family: "Public Sans", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    height: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    white-space: nowrap;
+}
+
+.footer2-comp  .footer-link {
+    position: relative;
+}
+
+.footer2-comp  .footer-link-2 {
+    color: var(--full-white);
+    font-family: "Public Sans", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: -0.2px;
+    line-height: 18px;
+    position: relative;
+    white-space: nowrap;
+}
+
+.footer2-comp  .frame-12 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 45px;
+    position: relative;
+}
+
+.footer2-comp  .discover-wrapper {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 32px;
+    position: relative;
+}
+
+.footer2-comp  .footer-link-3 {
+    color: var(--full-white);
+    font-family: "Public Sans", Helvetica;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: -0.2px;
+    line-height: 18px;
+    position: relative;
+    white-space: nowrap;
+}
+
+.footer2-comp  .footer-link-4 {
+    color: var(--full-white);
+    font-family: "Public Sans", Helvetica;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: -0.2px;
+    line-height: normal;
+    position: relative;
+    white-space: nowrap;
+}
+
+.footer2-comp  .frame-13 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 45px;
+    position: relative;
+}
+
+.footer2-comp  .text-wrapper-42 {
+    color: #ffffff;
+    font-family: "Public Sans", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    height: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    white-space: nowrap;
+}
+
+.footer2-comp  .footer-link-5 {
+    color: var(--full-white);
+    font-family: "Public Sans", Helvetica;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 18px;
+    position: relative;
+    white-space: nowrap;
+}
+
+.footer2-comp  .identifier-default {
+    align-items: flex-start;
+    align-self: stretch;
+    background-color: var(--primaryprimary-darker);
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px 5%;
+    position: relative;
+    width: 100%;
+}
+
+.footer2-comp  .frame-14 {
+    align-items: flex-start;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 24px;
+    padding: 30px 0px;
+    position: relative;
+}
+
+.footer2-comp  .frame-15 {
+    align-items: flex-start;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 10px;
+    position: relative;
+    width: 860px;
+}
+
+.footer2-comp  .text-wrapper-43 {
+    color: #ffffff;
+    font-family: "Public Sans", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    line-height: 24px;
+    margin-top: -1px;
+    position: relative;
+    text-decoration: underline;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.footer2-comp  .text-wrapper-44 {
+    color: #ffffff;
+    font-family: "Public Sans", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.footer2-comp  .frame-16 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    position: relative;
+}
+
+.footer2-comp  .frame-17 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 20px;
+    position: relative;
+}
+
+.footer2-comp  .text-wrapper-45 {
+    color: #e6e6e6;
+    font-family: "Public Sans", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    text-decoration: underline;
+    width: 234px;
+}
+
+.footer2-comp  .text-wrapper-46 {
+    color: #e6e6e6;
+    font-family: "Public Sans", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-decoration: underline;
+    width: 234px;
+}
+
+.footer2-comp  .looking-for-u-s {
+    align-self: stretch;
+    color: #ffffff;
+    font-family: "Public Sans", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+}
+
+.footer2-comp  .text-wrapper-47 {
+    color: #ffffff;
+    font-family: "Public Sans", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+}

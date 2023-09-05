@@ -1,0 +1,349 @@
+
+.header-comp {
+    align-items: center;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    left: 0;
+    position: absolute;
+    top: -1px;
+    width: 100%;
+}
+
+.header-comp .top-banner {
+    align-items: center;
+    align-self: stretch;
+    background-color: #f7fafc;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 8px;
+    padding: 9px 40px 9px 30px;
+    position: relative;
+    width: 100%;
+}
+
+.header-comp .banner-content {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 8px;
+    margin-right: -7px;
+    position: relative;
+}
+
+.header-comp .us-flag-small {
+    height: 11px;
+    position: relative;
+    width: 16px;
+}
+
+.header-comp .content-5 {
+    align-items: flex-start;
+    display: flex;
+    gap: 8px;
+    position: relative;
+    width: 1833px;
+}
+
+.header-comp .text-wrapper-48 {
+    color: #1b1b1b;
+    font-family: "Public Sans", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.header-comp .here-s-how-you-know {
+    height: 16px;
+    position: relative;
+    width: 133px;
+}
+
+.header-comp .overlap-group-4 {
+    height: 16px;
+    position: relative;
+    width: 131px;
+}
+
+.header-comp .text-wrapper-49 {
+    color: var(--primaryprimary);
+    font-family: "Public Sans", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 0;
+    white-space: nowrap;
+}
+
+.header-comp .icon-3 {
+    height: 16px;
+    left: 115px;
+    position: absolute;
+    top: 0;
+    width: 16px;
+}
+
+.header-comp .top-menu {
+    align-items: flex-end;
+    align-self: stretch;
+    background-color: var(--primaryprimary);
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 10px;
+    padding: 4px 60px;
+    position: relative;
+    width: 100%;
+}
+
+.header-comp .right-side-menu {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 20px;
+    position: relative;
+}
+
+.header-comp .nav-link {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 16px;
+    height: 50px;
+    padding: 16px 16px 20px;
+    position: relative;
+}
+
+.header-comp .frame-18 {
+    align-items: flex-end;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 4px;
+    margin-bottom: -1px;
+    position: relative;
+}
+
+.header-comp .text-wrapper-50 {
+    color: #f7fafc;
+    font-family: "Public Sans", Helvetica;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.header-comp .logo-and-search {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    padding: 19px 60px;
+    position: relative;
+    width: 100%;
+}
+
+.header-comp .logo-block-2 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 20px;
+    position: relative;
+}
+
+.header-comp .ACL-logo-4 {
+    height: 61px;
+    object-fit: cover;
+    position: relative;
+    width: 147px;
+}
+
+.header-comp .AGID-title-2 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    padding: 20px 0px;
+    position: relative;
+}
+
+.header-comp .text-wrapper-51 {
+    color: #1b1b1b;
+    font-family: "Public Sans", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: 389px;
+}
+
+.header-comp .text-wrapper-52 {
+    color: #1b1b1b;
+    font-family: "Public Sans", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: 619px;
+}
+
+.header-comp .spacer {
+    flex: 1;
+    flex-grow: 1;
+    height: 106px;
+    position: relative;
+}
+
+.header-comp .quick-search {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    position: relative;
+    width: 433.03px;
+}
+
+.header-comp .text-wrapper-53 {
+    color: var(--basebase);
+    font-family: "Public Sans", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: 326px;
+}
+
+.header-comp .search {
+    align-self: stretch;
+    height: 30.06px;
+    margin-bottom: -0.03px;
+    margin-left: -0.5px;
+    position: relative;
+    width: 100%;
+}
+
+.header-comp .main-menu {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+}
+
+.header-comp .line {
+    align-self: stretch;
+    flex: 0 0 auto;
+    margin-top: -1px;
+    position: relative;
+    width: 100%;
+}
+
+.header-comp .menu-wrapper {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    padding: 0px 60px;
+    position: relative;
+}
+
+.header-comp .menu {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 30px;
+    position: relative;
+}
+
+.header-comp .nav-link-2 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 16px;
+    height: 70px;
+    justify-content: center;
+    padding: 16px 16px 20px;
+    position: relative;
+}
+
+.header-comp .frame-19 {
+    align-items: flex-end;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 4px;
+    position: relative;
+}
+
+.header-comp .text-wrapper-54 {
+    color: var(--basebase-dark);
+    font-family: "Public Sans", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.header-comp .group-3 {
+    height: 70px;
+    position: relative;
+    width: 142px;
+}
+
+.header-comp .nav-link-3 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 16px;
+    height: 70px;
+    justify-content: center;
+    padding: 16px 16px 20px;
+    position: relative;
+}
+
+.header-comp .icon-4 {
+    height: 16px;
+    position: relative;
+    width: 16px;
+}
+
+.header-comp .group-4 {
+    height: 70px;
+    position: relative;
+    width: 132px;
+}
+
+.header-comp .line-2 {
+    align-self: stretch;
+    flex: 0 0 auto;
+    margin-bottom: -1px;
+    position: relative;
+    width: 100%;
+}

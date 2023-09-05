@@ -1,0 +1,1 @@
+export { Headermini } from "./Headermini";

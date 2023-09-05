@@ -1,0 +1,1 @@
+export { AgidScreen } from "./AgidScreen";
